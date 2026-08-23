@@ -1,5 +1,5 @@
 CIS337 Group Project
-Team Members: Carson Wertz, Enrique Reyes, Jacob Smalley
+Team Members: Carson W, Enrique R, Jacob S
 
 Instructions:
 1) Download and unzip the folder
